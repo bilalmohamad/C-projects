@@ -1,0 +1,145 @@
+Alice Blue           #F0F8FF    94%   97%  100%
+Antique White        #FAEBD7    98%   92%   84%
+Aqua                 #00FFFF     0%  100%  100%
+Aquamarine           #7FFFD4    50%  100%   83%
+Azure                #F0FFFF    94%  100%  100%
+Beige                #F5F5DC    96%   96%   86%
+Bisque               #FFE4C4   100%   89%   77%
+Black                #000000     0%    0%    0%
+Blanched Almond      #FFEBCD   100%   92%   80%
+Blue                 #0000FF     0%    0%  100%
+Blue Violet          #8A2BE2    54%   17%   89%
+Brown                #A52A2A    65%   16%   16%
+Burlywood            #DEB887    87%   72%   53%
+Cadet Blue           #5F9EA0    37%   62%   63%
+Chartreuse           #7FFF00    50%  100%    0%
+Chocolate            #D2691E    82%   41%   12%
+Coral                #FF7F50   100%   50%   31%
+Cornflower           #6495ED    39%   58%   93%
+Cornsilk             #FFF8DC   100%   97%   86%
+Crimson              #DC143C    86%    8%   24%
+Cyan                 #00FFFF     0%  100%  100%
+Dark Blue            #00008B     0%    0%   55%
+Dark Cyan            #008B8B     0%   55%   55%
+Dark Goldenrod       #B8860B    72%   53%    4%
+Dark Gray            #A9A9A9    66%   66%   66%
+Dark Green           #006400     0%   39%    0%
+Dark Khaki           #BDB76B    74%   72%   42%
+Dark Magenta         #8B008B    55%    0%   55%
+Dark Olive Green     #556B2F    33%   42%   18%
+Dark Orange          #FF8C00   100%   55%    0%
+Dark Orchid          #9932CC    60%   20%   80%
+Dark Red             #8B0000    55%    0%    0%
+Dark Salmon          #E9967A    91%   59%   48%
+Dark Sea Green       #8FBC8F    56%   74%   56%
+Dark Slate Blue      #483D8B    28%   24%   55%
+Dark Slate Gray      #2F4F4F    18%   31%   31%
+Dark Turquoise       #00CED1     0%   81%   82%
+Dark Violet          #9400D3    58%    0%   83%
+Deep Pink            #FF1493   100%    8%   58%
+Deep Sky Blue        #00BFFF     0%   75%  100%
+Dim Gray             #696969    41%   41%   41%
+Dodger Blue          #1E90FF    12%   56%  100%
+Firebrick            #B22222    70%   13%   13%
+Floral White         #FFFAF0   100%   98%   94%
+Forest Green         #228B22    13%   55%   13%
+Fuchsia              #FF00FF   100%    0%  100%
+Gainsboro            #DCDCDC    86%   86%   86%
+Ghost White          #F8F8FF    97%   97%  100%
+Gold                 #FFD700   100%   84%    0%
+Goldenrod            #DAA520    85%   65%   13%
+Gray                 #BEBEBE    75%   75%   75%
+Web Gray             #808080    50%   50%   50%
+Green                #00FF00     0%  100%    0%
+Web Green            #008000     0%   50%    0%
+Green Yellow         #ADFF2F    68%  100%   18%
+Honeydew             #F0FFF0    94%  100%   94%
+Hot Pink             #FF69B4   100%   41%   71%
+Indian Red           #CD5C5C    80%   36%   36%
+Indigo               #4B0082    29%    0%   51%
+Ivory                #FFFFF0   100%  100%   94%
+Khaki                #F0E68C    94%   90%   55%
+Lavender             #E6E6FA    90%   90%   98%
+Lavender Blush       #FFF0F5   100%   94%   96%
+Lawn Green           #7CFC00    49%   99%    0%
+Lemon Chiffon        #FFFACD   100%   98%   80%
+Light Blue           #ADD8E6    68%   85%   90%
+Light Coral          #F08080    94%   50%   50%
+Light Cyan           #E0FFFF    88%  100%  100%
+Light Goldenrod      #FAFAD2    98%   98%   82%
+Light Gray           #D3D3D3    83%   83%   83%
+Light Green          #90EE90    56%   93%   56%
+Light Pink           #FFB6C1   100%   71%   76%
+Light Salmon         #FFA07A   100%   63%   48%
+Light Sea Green      #20B2AA    13%   70%   67%
+Light Sky Blue       #87CEFA    53%   81%   98%
+Light Slate Gray     #778899    47%   53%   60%
+Light Steel Blue     #B0C4DE    69%   77%   87%
+Light Yellow         #FFFFE0   100%  100%   88%
+Lime                 #00FF00     0%  100%    0%
+Lime Green           #32CD32    20%   80%   20%
+Linen                #FAF0E6    98%   94%   90%
+Magenta              #FF00FF   100%    0%  100%
+Maroon               #B03060    69%   19%   38%
+Web Maroon           #7F0000    50%    0%    0%
+Medium Aquamarine    #66CDAA    40%   80%   67%
+Medium Blue          #0000CD     0%    0%   80%
+Medium Orchid        #BA55D3    73%   33%   83%
+Medium Purple        #9370DB    58%   44%   86%
+Medium Sea Green     #3CB371    24%   70%   44%
+Medium Slate Blue    #7B68EE    48%   41%   93%
+Medium Spring Green  #00FA9A     0%   98%   60%
+Medium Turquoise     #48D1CC    28%   82%   80%
+Medium Violet Red    #C71585    78%    8%   52%
+Midnight Blue        #191970    10%   10%   44%
+Mint Cream           #F5FFFA    96%  100%   98%
+Misty Rose           #FFE4E1   100%   89%   88%
+Moccasin             #FFE4B5   100%   89%   71%
+Navajo White         #FFDEAD   100%   87%   68%
+Navy Blue            #000080     0%    0%   50%
+Old Lace             #FDF5E6    99%   96%   90%
+Olive                #808000    50%   50%    0%
+Olive Drab           #6B8E23    42%   56%   14%
+Orange               #FFA500   100%   65%    0%
+Orange Red           #FF4500   100%   27%    0%
+Orchid               #DA70D6    85%   44%   84%
+Pale Goldenrod       #EEE8AA    93%   91%   67%
+Pale Green           #98FB98    60%   98%   60%
+Pale Turquoise       #AFEEEE    69%   93%   93%
+Pale Violet Red      #DB7093    86%   44%   58%
+Papaya Whip          #FFEFD5   100%   94%   84%
+Peach Puff           #FFDAB9   100%   85%   73%
+Peru                 #CD853F    80%   52%   25%
+Pink                 #FFC0CB   100%   75%   80%
+Plum                 #DDA0DD    87%   63%   87%
+Powder Blue          #B0E0E6    69%   88%   90%
+Purple               #A020F0    63%   13%   94%
+Web Purple           #7F007F    50%    0%   50%
+Rebecca Purple       #663399    40%   20%   60%
+Red                  #FF0000   100%    0%    0%
+Rosy Brown           #BC8F8F    74%   56%   56%
+Royal Blue           #4169E1    25%   41%   88%
+Saddle Brown         #8B4513    55%   27%    7%
+Salmon               #FA8072    98%   50%   45%
+Sandy Brown          #F4A460    96%   64%   38%
+Sea Green            #2E8B57    18%   55%   34%
+Seashell             #FFF5EE   100%   96%   93%
+Sienna               #A0522D    63%   32%   18%
+Silver               #C0C0C0    75%   75%   75%
+Sky Blue             #87CEEB    53%   81%   92%
+Slate Blue           #6A5ACD    42%   35%   80%
+Slate Gray           #708090    44%   50%   56%
+Snow                 #FFFAFA   100%   98%   98%
+Spring Green         #00FF7F     0%  100%   50%
+Steel Blue           #4682B4    27%   51%   71%
+Tan                  #D2B48C    82%   71%   55%
+Teal                 #008080     0%   50%   50%
+Thistle              #D8BFD8    85%   75%   85%
+Tomato               #FF6347   100%   39%   28%
+Turquoise            #40E0D0    25%   88%   82%
+Violet               #EE82EE    93%   51%   93%
+Wheat                #F5DEB3    96%   87%   70%
+White                #FFFFFF   100%  100%  100%
+White Smoke          #F5F5F5    96%   96%   96%
+Yellow               #FFFF00   100%  100%    0%
+Yellow Green         #9ACD32    60%   80%   20%

@@ -1,0 +1,8 @@
+This line is OK.
+This one also.
+But, the next one is a little bit too long.
+12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901
+There's more text in this
+file, but your program
+won't make it this far after
+the long line above.

@@ -1,0 +1,5 @@
+push-back abc
+push-back xyz
+pop-back
+report
+quit

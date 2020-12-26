@@ -1,0 +1,2 @@
+Invalid command
+usage: ((cut s n)|(copy s n)|(paste s))* (infile|-) (outfile|-)

@@ -1,0 +1,5 @@
+deque
+deque-cov
+*.gcda
+*.gcno
+*.gcov

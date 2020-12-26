@@ -1,0 +1,5 @@
+push-front Bill
+pop-front
+push-back Nye
+pop-back
+quit

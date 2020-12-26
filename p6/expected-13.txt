@@ -1,0 +1,28 @@
+> push-front three
+> push-front two
+> push-front one
+> report
+one
+two
+three
+> push-back four
+> report
+one
+two
+three
+four
+> pop-back
+> pop-back
+> report
+one
+two
+> undo
+> report
+one
+two
+three
+> redo
+> report
+one
+two
+> quit

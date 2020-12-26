@@ -1,0 +1,10 @@
+Tput file is different.
+I of the others,
+tut lines are all the same
+l so if an edit works on any
+oe, it should work on all of them.
+Tle isn't like that, but
+ild still work as
+l you don't try commands
+ty to access characters off the
+ea line.

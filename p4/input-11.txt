@@ -1,0 +1,5 @@
+append allow udp 10.0.0.10:* 10.0.0.1:53
+append allow tcp 10.0.0.10:* 10.0.0.1:80
+insert 50 allow tcp 10.0.0.10:* 10.0.0.1:443
+print all
+quit

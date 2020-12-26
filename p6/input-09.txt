@@ -1,0 +1,9 @@
+push-front borscht
+push-front chowder
+push-front gazpacho
+push-front minestrone
+push-front ramen
+report
+pop-back
+report
+quit

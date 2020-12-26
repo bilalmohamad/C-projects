@@ -1,0 +1,3 @@
+undo
+push-front hi hello how are you i am fine
+push-back hello I like dogs

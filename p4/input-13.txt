@@ -1,0 +1,4 @@
+print all
+delete 1
+print all
+quit

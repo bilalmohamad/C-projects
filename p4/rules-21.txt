@@ -1,0 +1,6 @@
+default deny
+append deny  tcp 10.0.0.10:* 10.0.0.1:22
+append allow tcp 10.0.0.10:* 10.0.0.1:22
+append allow tcp 10.0.0.10:* 10.0.0.1:25
+append allow tcp 10.0.0.10:* 10.0.0.1:80
+append allow udp 10.0.0.10:* 10.0.0.1:53

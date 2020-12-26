@@ -1,0 +1,18 @@
+> push-front borscht
+> push-front chowder
+> push-front gazpacho
+> push-front minestrone
+> push-front ramen
+> report
+ramen
+minestrone
+gazpacho
+chowder
+borscht
+> pop-back
+> report
+ramen
+minestrone
+gazpacho
+chowder
+> quit

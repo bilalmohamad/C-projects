@@ -1,0 +1,14 @@
+push-front three
+push-front two
+push-front one
+report
+push-back four
+report
+pop-back
+pop-back
+report
+undo
+report
+redo
+report
+quit

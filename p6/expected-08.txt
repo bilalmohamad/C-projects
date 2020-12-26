@@ -1,0 +1,12 @@
+> push-front Toyger
+> push-front Snowshoe
+> push-front Savannah
+> push-front Lykoi
+> push-front Highlander
+> pop-front
+> report
+Lykoi
+Savannah
+Snowshoe
+Toyger
+> quit

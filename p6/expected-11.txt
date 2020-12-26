@@ -1,0 +1,31 @@
+> push-front go
+> push-back skip-bo
+> push-front checkers
+> push-back connect-4
+> push-front operation
+> push-back scrabble
+> undo
+> undo
+> report
+checkers
+go
+skip-bo
+connect-4
+> redo
+> report
+operation
+checkers
+go
+skip-bo
+connect-4
+> redo
+> report
+operation
+checkers
+go
+skip-bo
+connect-4
+scrabble
+> redo
+Invalid command
+> quit

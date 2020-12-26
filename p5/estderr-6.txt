@@ -1,0 +1,1 @@
+usage: hash [-hmac <key>] <filename>

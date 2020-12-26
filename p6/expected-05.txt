@@ -1,0 +1,6 @@
+> push-back abc
+> push-back xyz
+> report
+abc
+xyz
+> quit

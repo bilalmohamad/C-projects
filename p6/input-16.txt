@@ -1,0 +1,23 @@
+push-front Bill
+push-front Bill
+push-front Bill
+push-front Bill
+push-front Bill
+push-front Bill
+push-front Bill
+push-front Bill
+push-front Bill
+push-front Bill
+push-front Bill
+push-front Bill
+push-front Bill
+push-front Bill
+push-front Bill
+push-front Bill
+push-front Bill
+undo
+push-front Bill
+push-front Bill
+push-front Bill
+redo
+quit

@@ -1,0 +1,10 @@
+This input file is different.
+In most of the others,
+the input lines are all the same
+length, so if an edit works on any
+one line, it should work on all of them.
+This file isn't like that, but
+it should still work as
+long as you don't try commands
+that try to access characters off the
+end of a line.

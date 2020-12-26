@@ -1,0 +1,11 @@
+push-front go
+push-back skip-bo
+push-front checkers
+push-back connect-4
+push-front operation
+push-back scrabble
+report
+undo
+undo
+report
+quit

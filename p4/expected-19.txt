@@ -1,0 +1,4 @@
+> Allowed via [4] allow tcp 10.0.0.10:* 10.0.0.1:80 
+> Allowed via [5] allow tcp 10.0.0.10:* 10.0.0.1:443 
+> Denied via default policy.
+> 
